@@ -1,26 +1,26 @@
 Check out some [demos](#demos-on-itchio) before you start!
 
 ## Using Pygbag
-- Visit [this page](/wiki/pygbag/) on how to use Pygbag to make web games with Python.
-- Visit [this page](/wiki/pygbag-code/) for useful Pygbag code snippets and a Pygbag FAQ.
+- Visit [this page](/wade-cheng/wiki/pygbag/) on how to use Pygbag to make web games with Python.
+- Visit [this page](/wade-cheng/wiki/pygbag-code/) for useful Pygbag code snippets and a Pygbag FAQ.
 
 ## Debugging / Desktop Simulator
 
-- [How to enter debug mode](/wiki/pygbag-debug/)
+- [How to enter debug mode](/wade-cheng/wiki/pygbag-debug/)
 - While working, you can access the simulator of the web loop by replacing `import asyncio` by `import pygbag.aio as asyncio` at top of main.py and run the program from the folder containing it.
 - TODO: Android remote debugging via [chromium browsers series](https://developer.chrome.com/docs/devtools/remote-debugging/).
 - TODO: Universal remote debugging via IRC Client or websocket using pygbag.net.
    
 ## Running
 
-- [Pygbag-script](/wiki/pygbag-script/) (WIP)
+- [Pygbag-script](/wade-cheng/wiki/pygbag-script/) (WIP)
 - [REPL](https://pygame-web.github.io/showroom/python.html?-i-&-X-dev#https://gist.githubusercontent.com/pmp-p/cfd398c75608504293d21f2642e87968/raw/773022eef4a2cc676ab0475890577a2b5e79e429/hello.py)
 - [CPython test suite](https://pygame-web.github.io/showroom/pythondev.html?-d#src/testsuite.py%20all) (WIP)
 
 ## Publishing
 
-- [Github Pages](/wiki/publishing/github.io/)
-- [Itch.io](/wiki/publishing/itch.io/)
+- [Github Pages](/wade-cheng/wiki/publishing/github.io/)
+- [Itch.io](/wade-cheng/wiki/publishing/itch.io/)
 
 ## Demos
 

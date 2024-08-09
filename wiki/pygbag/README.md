@@ -71,10 +71,10 @@ If you were able to complete these step, congratulations! You have successfully 
 If you were not able to, scroll down to the [documentation](#detailed-documentation) to troubleshoot.
 
 ### Debugging
-If you need to debug your game going forward, you may consider reading the page on [debugging](/wiki/pygbag-debug/) with Pygbag.
+If you need to debug your game going forward, you may consider reading the page on [debugging](/wade-cheng/wiki/pygbag-debug/) with Pygbag.
 
 ### Publishing 
-To let others play your game online, you must publish your game on a publicly accessible website. We provide documentation for publishing [via itch.io](/wiki/publishing/itch.io/) and [via Github Pages](/wiki/publishing/github.io/).
+To let others play your game online, you must publish your game on a publicly accessible website. We provide documentation for publishing [via itch.io](/wade-cheng/wiki/publishing/itch.io/) and [via Github Pages](/wade-cheng/wiki/publishing/github.io/).
 
 ### Templates
 You can change the page layout (and much more) using templates. They consist of HTML markup and Python/JavaScript code to contain your packaged game, plus some CSS to style it. To make your template better fit your game, you may want change it from the default one. Add `--template [TEMPLATE NAME].tmpl` to Pygbag's arguments when running it from the command line to set the template it uses.
